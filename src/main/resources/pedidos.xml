@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pedidos>
+  <pedido id="1">
+    <cliente>Maria</cliente>
+    <endereco>Rua das Flores, 123</endereco>
+    <status>EM_PREPARO</status>
+    <itens>
+      <item>
+        <nome>Pizza Calabresa</nome>
+        <preco>49.90</preco>
+        <quantidade>1</quantidade>
+      </item>
+      <item>
+        <nome>Refrigerante 2L</nome>
+        <preco>12.00</preco>
+        <quantidade>2</quantidade>
+      </item>
+    </itens>
+  </pedido>
+</pedidos>
